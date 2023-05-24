@@ -16,6 +16,9 @@ contributor:
     gutenberg_agent_id: '49764'
     url: http://www.gutenberg.org/2009/agents/49764
     wikipedia: https://en.wikipedia.org/wiki/Robert_Edmond_Jones
+covers:
+- cover_type: archival
+  image_path: 70498-h/images/cover.jpg
 creator:
   author:
     agent_name: MacKaye, Percy
@@ -29,6 +32,8 @@ description: 'Added title page: The evergreen tree: a masque of Christmas time f
   community singing and acting, by Percy MacKaye, with scenic and costume designs
   by Robert Edmond Jones; together with three monographs on the masque written by
   the author, the scenic designer, and Arthur Farwell, composer of the music.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70498#The-evergreen-tree
 gutenberg_issued: '2023-04-07'
 identifiers:
   gutenberg: '70498'
